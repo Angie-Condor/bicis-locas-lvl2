@@ -47,9 +47,9 @@ function validateForm(){
     msjTipo.style.display = "none";
   }
 
-  function validaNombre(){
-    if(nombre.value)
-  }
+  // function validaNombre(){
+  //   if(nombre.value)
+  // }
   // if(name.value.search(letras) || lastname.value.search(letras)){
   //   console.log("estoy acá");
   //   mostrarMsj("msj-nombre","Este campo debe contener solo letras");
